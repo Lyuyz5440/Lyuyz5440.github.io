@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Yanzhe Lyu"
 title_separator          : "-"
 name                     : &name "Yanzhe Lyu"
