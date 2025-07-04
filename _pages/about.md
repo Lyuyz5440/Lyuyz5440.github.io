@@ -17,7 +17,7 @@ Experience
 
 Publication
 ======
-[ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery](https://lyuyz5440.github.io/resgs.github.io/), **Yanzhe Lyu**, Kai Cheng, Xin Kang, Xuejin Chen, Accepted to ICCV 2025
+[ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery](https://yanzhelyu.github.io/resgs.github.io/), **Yanzhe Lyu**, Kai Cheng, Xin Kang, Xuejin Chen, Accepted to ICCV 2025
 
 Awards and Honors
 ======
